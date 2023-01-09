@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-🔭 I’m currently working on Hugger and Vocabulator, along with contributing to opensource projects
+🔭 I’m currently working on Minecraft Mods, along with contributing to opensource projects
 
 🌱 I’m currently learning Typescript
 
@@ -8,4 +8,6 @@
 
 📫 How to reach me: [Discord](https://discord.com/users/943537773586026496)
 
-😄 Pronouns: He/Him/Nerd
+😄 Pronouns: He/Him
+
+🐱 Likes cats
